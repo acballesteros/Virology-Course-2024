@@ -4,4 +4,4 @@ Molecular visualization and SIRAH TOOLS session
 
 Download files from:
 
-https://drive.google.com/drive/folders/1GXp-In7Qe5Sp0N6SaTwVeXku1JYkwZaf?usp=sharing
+https://drive.google.com/file/d/1nQjsuKNN5JekYmPa4YdCDkjBpNvw6Vmh/view?usp=drive_link
