@@ -1,6 +1,6 @@
 # Virology-Course-2024
 
-Molecular visualization and SiRAH TOOLS session
+Molecular visualization and SIRAH TOOLS session
 
 Download files from:
 
